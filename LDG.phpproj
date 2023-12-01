@@ -5,4 +5,7 @@
   <ItemGroup>
     <Content Remove="*.tmp" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="rmgimages\" />
+  </ItemGroup>
 </Project>
