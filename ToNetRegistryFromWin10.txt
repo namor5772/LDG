@@ -1,0 +1,3 @@
+TEST text file sitting initially on Windows 10 machine
+it is then ftped to my root directory on the NetRegistry webserver 
+TEST TEST 3:26PM 5/2/2018
